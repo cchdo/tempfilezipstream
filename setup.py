@@ -13,8 +13,8 @@ requires = [
 
 setup(
     name='tempfilezipstream',
-    version='1.0',
-    description='zipstream but for tempfiles',
+    version='2.0',
+    description='zipstream but for file objects',
     long_description=README,
     classifiers=[
         "Programming Language :: Python",
